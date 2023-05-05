@@ -1,7 +1,3 @@
-# Contributing to Apress Source Code
-
-Copyright for Apress source code belongs to the author(s). However, under fair use you are encouraged to fork and contribute minor corrections and updates for the benefit of the author(s) and other readers.
-
 ## How to Contribute
 
 1. Make sure you have a GitHub account.
