@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*The Complete ASP.NET Core 3 API Tutorial*](https://www.apress.com/9781484262542) by Les Jackson (Apress, 2020).
+This repository accompanies ASP.NET Core 3 API Tutorial demo by Les Jackson (Apress, 2020).
 
 [comment]: #cover
 ![Cover image](9781484262542.jpg)
